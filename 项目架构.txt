@@ -1,0 +1,1 @@
+vue + vueRouter + vuex + vuecli + typescript + element + github + webpack + axios + mock + ES6
